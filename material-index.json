@@ -1,0 +1,22 @@
+[
+  {
+    "path": "fixtures/arrivals.json",
+    "sha256": "44368b4a26a0b203f1cc3eada226061a189bd3bb77c99b67c1974b0804484a97",
+    "size_bytes": 445
+  },
+  {
+    "path": "fixtures/patience.csv",
+    "sha256": "3faf3207a65e86fec9da16c26594db3a73eb2d9afbadef84a7f1635b6eb43d48",
+    "size_bytes": 56
+  },
+  {
+    "path": "fixtures/service.csv",
+    "sha256": "f0177d7dc8c3d4a34823541287fd7d07067743e103136c8cf369f20af196d3d4",
+    "size_bytes": 30
+  },
+  {
+    "path": "fixtures/shifts.csv",
+    "sha256": "ba81d1143fb209773727834e9887dddf3a3af14bd1b2319dad2240195a3ad4d3",
+    "size_bytes": 217
+  }
+]
